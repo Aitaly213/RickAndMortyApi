@@ -1,4 +1,4 @@
-package com.example.rickandmortyapi
+package com.example.rickandmortyapi.data
 
 import com.example.rickandmortyapi.models.BaseResponse
 import retrofit2.Call

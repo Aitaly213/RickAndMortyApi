@@ -1,5 +1,6 @@
-package com.example.rickandmortyapi
+package com.example.rickandmortyapi.data
 
+import android.util.Log
 import androidx.paging.PagingSource
 import androidx.paging.PagingState
 import com.example.rickandmortyapi.models.BaseResponse

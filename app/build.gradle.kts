@@ -51,4 +51,7 @@ dependencies {
     implementation(libs.androidx.paging.runtime.ktx)
     implementation(libs.retrofit)
     implementation (libs.converter.gson)
+
+    implementation(libs.glide)
+    annotationProcessor(libs.compiler)
 }
